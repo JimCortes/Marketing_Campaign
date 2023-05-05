@@ -2,7 +2,7 @@
 
 
 ### Objective
-The superstore is seeking to predict the probability of a customer providing a positive response and to determine the various factors that influence this response. Your task is to analyze the data given to identify these factors and subsequently construct a prediction model that can forecast the likelihood of a customer giving a positive response.
+The superstore is seeking to predict the probability of a customer providing a positive response and to determine the various factors that influence this response.Analyze the data given to identify these factors and subsequently construct a prediction model that can forecast the likelihood of a customer giving a positive response.
 
 
 ### Data
